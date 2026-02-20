@@ -1,4 +1,4 @@
-# Language Translator Web App 🌐🗣️
+# Language Translator Web App 🌐
 
 A **simple language translation web application** built using **HTML, CSS, and JavaScript**.  
 This project lets users enter text, select source and target languages, and get translations using a free translation API.
