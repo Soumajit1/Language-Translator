@@ -5,7 +5,7 @@ This project lets users enter text, select source and target languages, and get 
 
 --
 
-## 🚀 Features
+##  Features
 
 - 🌍 Translate text between multiple languages  
 - 📋 Copy translated text with a click  
