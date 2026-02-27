@@ -16,7 +16,7 @@ This project lets users enter text, select source and target languages, and get 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **HTML** — Structure of the web pages  
 - **CSS** — Styling & layout  
