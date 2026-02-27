@@ -9,7 +9,7 @@ This project lets users enter text, select source and target languages, and get 
 
 -  Translate text between multiple languages  
 -  Copy translated text with a click  
-- 🔊 Optional text-to-speech (if supported by the API)  
+-  Optional text-to-speech (if supported by the API)  
 - 📱 Responsive and user-friendly interface  
 
 **Note:** You will need to add your own API key in the code (e.g., in `script.js`) for the translation service to work. :contentReference[oaicite:1]{index=1}
