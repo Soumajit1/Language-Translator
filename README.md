@@ -25,5 +25,5 @@ Features
 
 ---
 
-##  File Structure
+# File Structure
 
