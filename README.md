@@ -23,7 +23,7 @@ Features
 - **JavaScript** — Logic for handling translation and API requests  
 - **Translation API** — Backend translation engine (replace placeholder API keys) :contentReference[oaicite:2]{index=2}
 
----
+--
 
 # File Structure
 
