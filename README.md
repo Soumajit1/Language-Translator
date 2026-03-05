@@ -15,7 +15,7 @@ Features
 
 
 
-## Technologies Used
+# Technologies Used
 
 - **HTML** — Structure of the web pages  
 - **CSS** — Styling & layout  
