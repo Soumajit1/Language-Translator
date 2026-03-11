@@ -15,7 +15,7 @@ This project lets users enter text, select source and target languages, and get 
 
 Technologies Used
 
-- **HTML** — Structure of the web pages  
+- **HTML** — Structure of the web page 
 - **CSS** — Styling & layout  
 - **JavaScript** — Logic for handling translation and API requests  
 **Translation API** — Backend translation engine (replace placeholder API keys) :contentReference[oaicite:2]{index=2}
