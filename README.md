@@ -3,7 +3,7 @@
 A **simple language translation web application** built using **HTML, CSS, and JavaScript**.  
 This project users enter text, select source and target languages, and get translations using a free translation API.
 
-
+ok
 
  Translate text between multiple languages  
   Copy translated text with a click  
