@@ -12,7 +12,7 @@ ok
 
 *Note:** You will need to add your own API key in the code (e.g., in `script.js`) for the translation service to work. :contentReference[oaicite:1]{index=1}
 
-
+ok2
 Technologies Used
 
 - **HTML** — Structure of the web page 
