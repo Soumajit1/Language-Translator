@@ -3,7 +3,7 @@
 A **simple language translation web application** built using **HTML, CSS, and JavaScript**.  
 This project users enter text, select source and target languages, and get translations using a free translation API.
 
-ok
+ok1
 
  Translate text between multiple languages  
   Copy translated text with a click  
@@ -12,7 +12,7 @@ ok
 
 *Note:** You will need to add your own API key in the code (e.g., in `script.js`) for the translation service to work. :contentReference[oaicite:1]{index=1}
 
-ok2
+ok2,3
 Technologies Used
 
 - **HTML** — Structure of the web page 
