@@ -7,6 +7,7 @@ ok1
 ok2
 ok3
 ok4
+ok5
 
  Translate text between multiple languages  
   Copy translated text with a click  
