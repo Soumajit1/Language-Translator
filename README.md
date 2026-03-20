@@ -18,7 +18,7 @@ ok 6
 ok3
 ok2,3.3
 Technologies Used
-ok
+ok,i
 - **HTML** — Structure of the web page 
 - **CSS** — Styling & layout  
 - **JavaScript** — Logic for handling translation and API requests  
