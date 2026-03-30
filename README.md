@@ -24,39 +24,4 @@ ok,i
 - **JavaScript** — Logic for handling translation and API requests  
 **Translation API** — Backend translation engine (replace placeholder API keys) :contentReference[oaicite:2]{index=2}
 
-ok3
-66
-i
- File Stru
-
-ok
-OK
-OK
-OK
-OK
-OK
-OK
-OK
-OK
-ok
-ok
-ok
-ok
-ok
-ok
-ok
-ok
-ok
-ok
-ok
-ok
-ok
-ok
-olok
-ok
-ok
-ok
-ok
-ok
-ok
 ok
