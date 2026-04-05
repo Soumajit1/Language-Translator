@@ -60,21 +60,4 @@ ok
 
 
 
- hi
-hello
-hello world
-this is me
-ok
-yup
-okk
-hi
-hello
-okk
-hi
-hello
-hello world
-ok
-hi
-hello
-okey
-hii
+hello world!
